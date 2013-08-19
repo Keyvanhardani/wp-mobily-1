@@ -1,4 +1,4 @@
-=== WP-Mobily ===
+﻿=== WP-Mobily ===
 Contributors: Keyvan Hardani / iappi.de Softwareentwicklung™
 Donate link: http://www.iappi.de/donate/
 Tags: phone theme, mobile browser detect, mobile detect
@@ -17,6 +17,7 @@ Select your Mobile-Theme, only for Mobile Devices.
 
 Please visit our own <a href="http://iappi.de/wp-mobily" target="_blank">support team</a> for any issues. 
 
+ iAppi.de Softwareentwicklung™
 
 == Installation ==
 
