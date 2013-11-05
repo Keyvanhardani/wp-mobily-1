@@ -9,7 +9,7 @@
     font-family: fantasy;
 </style>
 <div class="wp-admin wrap mobily">
-<h2>WP-Mobily Version 1.0</h2>
+<h2>WP-Mobily Version 1.2</h2>
 <table width="100%" style="width: 288px;">
 	<tr>
     	<td valign="top">
