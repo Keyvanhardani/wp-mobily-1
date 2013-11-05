@@ -2,7 +2,7 @@
 Contributors: Keyvan Hardani / iappi.de Softwareentwicklung™
 Donate link: http://www.iappi.de/donate/
 Tags: phone theme, mobile browser detect, mobile detect
-Requires at least: 1.0
+Requires at least: 2.0
 Tested up to: 3.7.1
 Stable tag: 1.2
 License: GPLv2
