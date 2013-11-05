@@ -4,7 +4,7 @@ Plugin Name: Wp-Mobily
 Plugin URI: http://iappi.de/wp-mobily
 Description: Select your Mobile-Theme, only for Mobile Device's.
 Author: Keyvan Hardani ( iAppi.de )
-Version: 1.0
+Version: 1.2
 Author URI: http://www.iappi.de
 */
 
