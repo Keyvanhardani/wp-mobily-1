@@ -82,5 +82,5 @@
     </tr>
 </table>
 
-   <a href="http://iappi.de">Copyright (C) by iappi.de Softwareentwicklung™ - All Rights Reserved</a>
+   <h3 class="update-nag"<a href="http://iappi.de">Copyright (C) by iappi.de Softwareentwicklung&trade; - All Rights Reserved</a></h3>
 </div>

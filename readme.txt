@@ -1,10 +1,10 @@
-﻿=== WP-Mobily ===
+=== WP-Mobily ===
 Contributors: Keyvan Hardani / iappi.de Softwareentwicklung™
 Donate link: http://www.iappi.de/donate/
 Tags: phone theme, mobile browser detect, mobile detect
-Requires at least: 1.0.
-Tested up to: 3.6
-Stable tag: 1.0
+Requires at least: 1.0
+Tested up to: 3.7.1
+Stable tag: 1.2
 License: GPLv2
 
 == Description ==
@@ -38,10 +38,13 @@ iAppi.de Softwareentwicklung™
 
 == Changelog ==
 
+= 1.2 =
+
+* Wordpress 3.7.1 Release
 
 = 1.0 =
 * First Release
 
 == Upgrade Notice ==
 
-*1.0 no Update
+* 1.2 Fixed various link issues

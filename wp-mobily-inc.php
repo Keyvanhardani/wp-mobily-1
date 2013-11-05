@@ -32,5 +32,4 @@ function mobily_settings_page() {
 	include('wp-mobily-admin/wp-mobily-top.php');
 	include('wp-mobily/wp-mobily.php');
 	include('wp-mobily/wp-mobily-plug.php');
-	//include('wp-mobily-admin/css/style.html');
 }
